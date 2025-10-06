@@ -1,3 +1,4 @@
 google_accounts.json
 oauth_creds.json
 .env
+tmp/*

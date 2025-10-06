@@ -32,4 +32,24 @@
             ]
         }
     }
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    },
+    "folderTrust": {
+      "enabled": true
+    }
+  },
+  "ui": {
+    "showMemoryUsage": true,
+    "showCitations": true
+  },
+  "tools": {
+    "shell": {
+      "showColor": true
+    }
+  },
+  "general": {
+    "enablePromptCompletion": true
+  }
 }
