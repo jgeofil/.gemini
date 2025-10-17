@@ -1,0 +1,7 @@
+{
+  "cloud-run": {
+    "overrides": [
+      "/home/jgf/*"
+    ]
+  }
+}
